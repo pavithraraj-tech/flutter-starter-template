@@ -12,9 +12,9 @@
   </ul>
 
   <h2>Screenshots:</h2>
-  <img src="screenshots/login_screen.png" alt="Login Screen">
-  <img src="screenshots/register_screen.png" alt="Register Screen">
-  <img src="screenshots/homepage.png" alt="Homepage">
+  <img src="https://i.ibb.co/fXXRDVM/Screenshot-20240604-145207.jpg" alt="Login Screen">
+  <img src="https://i.ibb.co/CWYVLyM/Screenshot-20240604-145213.jpg" alt="Register Screen">
+  <img src="https://i.ibb.co/W3hMK3Z/Screenshot-20240604-145231.jpg" alt="Homepage">
 
   <h2>Dependencies:</h2>
   <ul>
