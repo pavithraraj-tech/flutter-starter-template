@@ -12,9 +12,9 @@
   </ul>
 
   <h2>Screenshots:</h2>
-  <img src="https://i.ibb.co/fXXRDVM/Screenshot-20240604-145207.jpg" alt="Login Screen" width="50%">
-  <img src="https://i.ibb.co/CWYVLyM/Screenshot-20240604-145213.jpg" alt="Register Screen" width="50%">
-  <img src="https://i.ibb.co/W3hMK3Z/Screenshot-20240604-145231.jpg" alt="Homepage" width="50%">
+  <img src="https://i.ibb.co/fXXRDVM/Screenshot-20240604-145207.jpg" alt="Login Screen" width="10%">
+  <img src="https://i.ibb.co/CWYVLyM/Screenshot-20240604-145213.jpg" alt="Register Screen" width="10%">
+  <img src="https://i.ibb.co/W3hMK3Z/Screenshot-20240604-145231.jpg" alt="Homepage" width="10%">
 
   <h2>Dependencies:</h2>
   <ul>
